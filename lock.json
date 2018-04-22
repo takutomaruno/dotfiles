@@ -21,6 +21,16 @@
       "type": "git",
       "path": "github.com/tpope/vim-surround",
       "version": "e49d6c2459e0f5569ff2d533b4df995dd7f98313"
+    },
+    {
+      "type": "git",
+      "path": "github.com/h1mesuke/vim-alignta",
+      "version": "cb3d593c48d7d3aef829b5aff49ddade24417a9f"
+    },
+    {
+      "type": "git",
+      "path": "github.com/mattn/emmet-vim",
+      "version": "350f0ba10b9ee65837fc5b04a993b14a7a10e5ac"
     }
   ],
   "profiles": [
@@ -30,7 +40,9 @@
         "github.com/itchyny/calendar.vim",
         "github.com/tyru/caw.vim",
         "github.com/itchyny/lightline.vim",
-        "github.com/tpope/vim-surround"
+        "github.com/tpope/vim-surround",
+        "github.com/h1mesuke/vim-alignta",
+        "github.com/mattn/emmet-vim"
       ]
     }
   ]
